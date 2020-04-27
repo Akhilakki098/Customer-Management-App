@@ -137,19 +137,10 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER= 'qakhilakki@gmail.com'
-EMAIL_HOST_PASSWORD = 'Akhil12345'
+EMAIL_HOST_PASSWORD = 'gfcvhghghg'
 
 
 
 
-#S3 BUCKETS CONFIG
-
-'''AWS_ACCESS_KEY_ID = 'AKIAU7RYAUVU6CTP36OS'
-AWS_SECRET_ACCESS_KEY = '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'
-AWS_STORAGE_BUCKET_NAME = 'akhil-crm-bucket'
-AWS_S3_FILE_OVERWRITE = False
-AWS_DEFAULT_ACL = None
-DEFAULT_FILE_STORAGE = 'storages.backends.s3boto3.S3Boto3Storage'
-STATICFILES_STORAGE = 'storages.backends.s3boto3.S3Boto3Storage'''
 
 
